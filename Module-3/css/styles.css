@@ -2,16 +2,17 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #97bafb;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #36edd8;
     border-radius: 0;
     border: 0;
+
 }
 
 #header-nav button {
@@ -19,7 +20,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: #fdf583;
 }
 
 .navbar-collapse {
@@ -33,7 +34,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: #f53a30;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -41,11 +42,11 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
+    text-shadow: 1px 1px 1px #e32323;
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #000000;
 }
 
 #nav-list a {
@@ -57,11 +58,11 @@ body {
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #fce29e;
+    background-color: #ee3d2d;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid #ff3d32;
 }
 
 
@@ -88,12 +89,12 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+#maggie-tile, #vada-pav-tile, #pav-bhaji-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #abf091;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 80px #55fa34;
 }
 
 
